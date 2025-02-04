@@ -1,8 +1,8 @@
-<h1>Hi 👋, I'm Shubham Pandey</h1>
-<h3>A passionate Android developer from India</h3>
+<h1>Hi, I'm Shubham Pandey</h1>
+<h3>Android developer from India</h3>
 
-<p><strong>🌱 I’m currently building Android Apps</strong></p>
-<p><strong>💬 Talk to me about Android development</strong></p>
+<p><strong>🌱 I’m currently building apps and solving problems</strong></p>
+<p><strong>💬 Talk to me about anything tech & business</strong></p>
 <p><strong>📫 Reach me at <a href="mailto:shubhampandey5410@gmail.com">shubhampandey5410@gmail.com</a></strong></p>
 
 <h2>🚀 Languages and Tools:</h2>
