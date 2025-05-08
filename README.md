@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shubham Pandey</h1>
-<h3>Android developer from India</h3>
+<h3>Software developer from India</h3>
 
 <p><strong>🌱 I’m currently building apps and solving problems</strong></p>
 <p><strong>💬 Talk to me about anything tech & business</strong></p>
